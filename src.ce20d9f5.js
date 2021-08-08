@@ -58,4 +58,4 @@ var t,e=arguments[3];!function(e,n){"object"==typeof exports&&"undefined"!=typeo
 },{"./refs":"VyiV","lodash/debounce":"CXfR","./fetchCountries":"irxn","./update":"x9od"}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/search.js");
 },{"./js/search.js":"HU2o"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.ce20d9f5.js.map
+//# sourceMappingURL=/goit-js-hw-12-countries/src.ce20d9f5.js.map
